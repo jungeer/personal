@@ -11,6 +11,7 @@
   "dependencies": {
     "animate.css": "^4.1.1",
     "ant-design-vue": "4.x",
+    "echarts": "^5.5.1",
     "fireworks-js": "^2.10.7",
     "gsap": "^3.12.4",
     "less": "^4.2.0",
